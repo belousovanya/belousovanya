@@ -1,4 +1,4 @@
-## Добрый день! 👋 Меня зовут Аня. Я QA Engineer с 2+ годами опыта в тестировании.
+## Добрый день! 👋 Меня зовут Аня. Я QA Engineer с 3+ годами опыта в тестировании.
 
 <!--
 **belousovanya/belousovanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
